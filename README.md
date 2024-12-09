@@ -17,7 +17,7 @@
 
 ## Screenshot of Challenge
 
-![Screenshot of Required Layout](/Assets/Reference Layout Image.png)
+![Screenshot of Required Layout](/Assets/Reference-Layout-Image.png)
 
 ---
 
