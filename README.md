@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-1. [Screenshot of Challenge](#screenshot-of-challenge)
+1. [Challenge Info](#screenshot-of-challenge)
 2. [Live Preview](#live-preview)
 3. [About the Project](#about-the-project)
 4. [Key Features](#key-features)
@@ -14,11 +14,21 @@
 
 ---
 
-## Screenshot of Challenge
+## Challenge Info
+
+**Client Background**
+
+Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design firm that specializes in garden design and creation, maintenance and landscaping. The company also runs a small plant nursery that sells indoor and outdoor plants, making them a one-stop shop for clients to "transform any space into an oasis you can be proud of".
+
+Lucky Shrub was started by a husband and wife team, Jason and Maria, who share a long-time love for plants. Jason is the garden architect. He creates and oversees all designs while managing his team of landscapers. Maria manages all the marketing for the company and oversees the nursery.
 
 **Screenshot of Required Layout**
 
 ![Screenshot of Required Layout](/Assets/layoutimage.png)
+
+**Finished Homepage**
+
+![Screenshot of Required Layout](/Assets/FinalHomepage.png)
 
 ---
 
