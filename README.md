@@ -10,13 +10,13 @@
 4. [Key Features](#key-features)
 5. [Technologies Used](#technologies-used)
 6. [Learning Objectives](#learning-objectives)
-7. [Acknowledgments](#acknowledgments)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ---
 
 ## Screenshot of Challenge
 
+**Screenshot of Required Layout**
 ![Screenshot of Required Layout](/Assets/Reference-Layout-Image.png)
 
 ---
