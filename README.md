@@ -40,7 +40,7 @@ Lucky Shrub was started by a husband and wife team, Jason and Maria, who share a
 
 ## About the Project
 
-In this project, I built the homepage for Lucky Shrubs, a fictional website focused on showcasing various shrubs and plants. The goal was to design a simple, yet visually appealing page that effectively organizes content using CSS Grid. I used grid-area to position elements, ensuring that the layout remains responsive and user-friendly across different screen sizes. The project helped me strengthen my front-end development skills, particularly in CSS Grid and responsive design.
+In this project, I built the homepage for Lucky Shrubs, a fictional website focused on showcasing the medium-sized garden design firm that specializes in garden design and creation, maintenance and landscapings. The goal was to design a simple, yet visually appealing page that effectively organizes content using CSS Grid. I used grid-area to position elements, ensuring that the layout remains responsive and user-friendly across different screen sizes. The project helped me strengthen my front-end development skills, particularly in CSS Grid and responsive design.
 
 ---
 
