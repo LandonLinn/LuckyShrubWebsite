@@ -17,6 +17,7 @@
 ## Screenshot of Challenge
 
 **Screenshot of Required Layout**
+
 ![Screenshot of Required Layout](/Assets/layoutimage.png)
 
 ---
